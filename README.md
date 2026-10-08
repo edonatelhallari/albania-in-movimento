@@ -9,7 +9,6 @@ Il progetto racconta l'emigrazione albanese con i dati: dove vivono oggi gli alb
 
 - **Dashboard Looker Studio:** [apri il report](https://lookerstudio.google.com/reporting/719b52bb-497a-4a18-a445-228820905c84)
 - **Presentazione:** [PDF](presentazione/Albania_in_movimento.pdf) · [PowerPoint](presentazione/Albania_in_movimento.pptx)
-- **Piano di progetto:** [PDF](docs/Piano_di_progetto.pdf)
 
 ## Domande di ricerca
 
@@ -38,9 +37,7 @@ notebooks/      01–07 pulizia dei dati con Python (Pandas)
 sql/            08_database.sql – database MySQL e query (JOIN, RANK, LAG)
 data/           dataset puliti (CSV)
 powerbi/        09_report_albania.pbix – modello a stella e misure DAX
-looker/         dati usati per la dashboard Looker Studio
 presentazione/  slide finali (PDF e PowerPoint)
-docs/           piano di progetto
 ```
 
 ## Strumenti
